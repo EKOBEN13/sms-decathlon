@@ -1,0 +1,30 @@
+body{
+   
+}
+
+body{
+    background-color: #004876;
+}
+
+.navbar .navbar-expand-lg .navbar-light .bg-light .trends{
+    background-image: radial-gradient(#0082c3,#176ea6,#004876) !important;
+    background-repeat: no-repeat;
+}
+
+a.navbar-brand{
+    color: white !important;
+}
+
+.main-title{
+    color: white;
+    padding-left: 5vw;
+}
+
+.main-description{
+    padding-left: 5vw;
+}
+
+.row>*{
+    padding-left: 0px !important;
+    margin-left: 0px;
+}
