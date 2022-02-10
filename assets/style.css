@@ -28,3 +28,26 @@ a.navbar-brand{
     padding-left: 0px !important;
     margin-left: 0px;
 }
+
+.signature{
+    font-family: 'Roboto';
+}
+
+.big-title{
+    color: white;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.icon-brand{
+    width: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.divider{
+    height: 20em;
+}
